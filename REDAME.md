@@ -9,5 +9,5 @@ Les informations obtenues sont utilisées de manière dynamique pour générer l
 - Ouvrez le fichier HTML avec un navigateur Web.
 
 ## Gif
-<img src="" />
+<img src="githupcard.gif" />
 
