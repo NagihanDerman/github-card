@@ -1,4 +1,4 @@
-### GitHub Profile Finder
+### GitHub Profile
 
 This project is a GitHub Profile Finder application developed using HTML, CSS, and JavaScript. It allows users to search for any GitHub user by their username and view their GitHub profile directly.
 
@@ -14,7 +14,7 @@ This project is a GitHub Profile Finder application developed using HTML, CSS, a
 - CSS: Styling for the visual appearance of the search interface and profile display.
 - JavaScript: Handles the logic for fetching GitHub user data through the GitHub API.
 
-### Chercheur de Profil GitHub
+### Profil GitHub
 
 Ce projet est une application de recherche de profil GitHub développée en utilisant HTML, CSS et JavaScript. Elle permet aux utilisateurs de rechercher n'importe quel utilisateur GitHub en entrant son nom d'utilisateur et d'accéder directement à son profil GitHub.
 
